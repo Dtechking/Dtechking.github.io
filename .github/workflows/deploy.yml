@@ -27,7 +27,7 @@ jobs:
       run: npm ci --force
       
     - name: Update Browser list
-      run: npx browserslist --update-db
+      run: npx browserslist --update-db --force
     
     - name: Build project
       run: CI=false npm run build
