@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> C, C++, Java, Javascript and Python. </b>
               </i>
               <br />
               <br />
@@ -34,7 +34,11 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Artificial Intelligence and Machine Learning
+                </b>
+                {" "}and{" "} 
+                <b className="purple">
+                  Cybersecurity.
                 </b>
               </i>
               <br />
@@ -49,7 +53,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
